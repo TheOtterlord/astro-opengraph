@@ -1,0 +1,22 @@
+{
+  "name": "astro-opengraph",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^0.18.2",
+    "@astrojs/node": "^5.1.0",
+    "@astrojs/rss": "^2.3.1",
+    "@astrojs/sitemap": "^1.2.1",
+    "@resvg/resvg-js": "^2.4.1",
+    "astro": "^2.1.5",
+    "satori": "^0.4.4",
+    "satori-html": "^0.3.2"
+  }
+}
